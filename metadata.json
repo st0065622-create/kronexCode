@@ -1,0 +1,6 @@
+{
+  "name": "KRONEX AI Studio",
+  "description": "KRONEX AI Studio — Apple-grade AI Operating System with AI Chat, Image/Video/Voice/Music Generators, VS Code-style Coding Playground, drag-and-drop AI Agent Builder, and verified developer profile systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
